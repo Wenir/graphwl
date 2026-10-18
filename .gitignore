@@ -1,0 +1,6 @@
+tinywl
+tinywl.o
+*-protocol.h
+build/
+.cache
+.direnv
